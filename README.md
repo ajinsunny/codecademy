@@ -1,4 +1,3 @@
-# CodecademyDataVisualization
 
 # Codecademy Courses
 
